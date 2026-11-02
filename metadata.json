@@ -1,0 +1,6 @@
+{
+  "name": "BD ContactX",
+  "description": "Bangladesh Random Contact Generator - generate realistic test contacts, phone numbers, and addresses across all 8 divisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
