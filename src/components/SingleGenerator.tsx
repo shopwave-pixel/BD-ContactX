@@ -85,9 +85,6 @@ export const SingleGenerator: React.FC<SingleGeneratorProps> = ({
           <h1 className="text-2xl sm:text-3xl font-bold tracking-tight text-slate-900 dark:text-white">
             {isBangla ? 'বিডি কনট্যাক্টএক্স' : 'BD ContactX'}
           </h1>
-          <p className="text-sm text-slate-500 dark:text-slate-400 max-w-xl">
-            {t('appDescription')}
-          </p>
         </div>
 
         <div className="flex items-center gap-3 shrink-0">
